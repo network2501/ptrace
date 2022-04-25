@@ -1,2 +1,2 @@
-# tracepath
+# ptrace
 Multi path aware traceroute. 
